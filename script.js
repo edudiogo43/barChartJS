@@ -18,7 +18,7 @@ submit.addEventListener("click", () => {
     chartValues.forEach((value) => {
         let h = value;
         ctx.fillRect(x, canvas.height / 2 - h , width, h);
-        ctx.fillStyle = `hsla(${Math.random() * 360}, 50%, 50%)`;
+        ctx.fillStyle = `hsla(${Math.random() * 360}, 50%, 50%, 1)`;
         x += width+20;
     })
 
