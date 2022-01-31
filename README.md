@@ -1,12 +1,11 @@
 # BarChart-JS
-An example and very simplistic of how to create a bar chart using only Vanilla javascript.
+An example and very simplistic of how creating a bar chart using only Vanilla Javascript.
 
 ## How to use
-Just open the index.html file and update the values of text input field by separating them by semicolon character.
+Clone the repository and open the index.html file and update the Text-Input field by separating the values using semicolon character.
 
 ## Example
 <img src="img.png">
-
 
 ## License
 MIT License
