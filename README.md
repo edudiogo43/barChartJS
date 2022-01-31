@@ -1,4 +1,4 @@
-# BarChart-JS
+# BarChartJS
 An example and very simplistic of how creating a bar chart using only Vanilla Javascript.
 
 ## How to use
